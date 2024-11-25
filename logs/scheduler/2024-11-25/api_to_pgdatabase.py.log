@@ -1,0 +1,273 @@
+[2024-11-25T06:15:18.457+0000] {processor.py:186} INFO - Started process (PID=205) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:15:18.460+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:15:18.467+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:15:18.464+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:15:18.567+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:15:18.673+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:15:18.672+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:15:18.780+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:15:18.779+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:15:18.871+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.446 seconds
+[2024-11-25T06:15:49.108+0000] {processor.py:186} INFO - Started process (PID=508) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:15:49.111+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:15:49.119+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:15:49.118+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:15:49.198+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:15:49.307+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:15:49.307+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:15:49.406+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:15:49.406+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:15:49.441+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.410 seconds
+[2024-11-25T06:16:19.625+0000] {processor.py:186} INFO - Started process (PID=810) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:16:19.627+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:16:19.634+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:16:19.633+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:16:19.660+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:16:19.687+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:16:19.687+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:16:19.717+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:16:19.717+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:16:19.746+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.129 seconds
+[2024-11-25T06:16:50.077+0000] {processor.py:186} INFO - Started process (PID=1111) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:16:50.079+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:16:50.084+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:16:50.084+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:16:50.120+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:16:50.152+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:16:50.152+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:16:50.193+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:16:50.192+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:16:50.218+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.150 seconds
+[2024-11-25T06:17:20.334+0000] {processor.py:186} INFO - Started process (PID=1412) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:17:20.335+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:17:20.339+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:17:20.338+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:17:20.368+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:17:20.396+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:17:20.395+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:17:20.430+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:17:20.430+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:17:20.457+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.132 seconds
+[2024-11-25T06:17:51.158+0000] {processor.py:186} INFO - Started process (PID=1719) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:17:51.159+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:17:51.161+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:17:51.161+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:17:51.184+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:17:51.207+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:17:51.207+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:17:51.233+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:17:51.233+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:17:51.257+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.109 seconds
+[2024-11-25T06:18:21.405+0000] {processor.py:186} INFO - Started process (PID=2020) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:18:21.412+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:18:21.426+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:18:21.425+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:18:21.478+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:18:21.516+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:18:21.515+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:18:21.560+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:18:21.560+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:18:21.602+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.216 seconds
+[2024-11-25T06:18:52.039+0000] {processor.py:186} INFO - Started process (PID=2321) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:18:52.040+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:18:52.045+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:18:52.044+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:18:52.074+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:18:52.114+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:18:52.114+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:18:52.148+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:18:52.147+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:18:52.181+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.149 seconds
+[2024-11-25T06:19:23.041+0000] {processor.py:186} INFO - Started process (PID=2622) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:19:23.045+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:19:23.050+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:19:23.049+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:19:23.075+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:19:23.112+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:19:23.111+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:19:23.140+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:19:23.140+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:19:23.170+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.140 seconds
+[2024-11-25T06:19:53.577+0000] {processor.py:186} INFO - Started process (PID=2923) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:19:53.578+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:19:53.581+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:19:53.581+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:19:53.610+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:19:53.635+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:19:53.635+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:19:53.668+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:19:53.667+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:19:53.693+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.125 seconds
+[2024-11-25T06:20:23.852+0000] {processor.py:186} INFO - Started process (PID=3224) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:20:23.853+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:20:23.856+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:20:23.855+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:20:23.880+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:20:23.907+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:20:23.907+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:20:23.932+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:20:23.932+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:20:23.957+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.111 seconds
+[2024-11-25T06:20:54.470+0000] {processor.py:186} INFO - Started process (PID=3525) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:20:54.472+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:20:54.474+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:20:54.474+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:20:54.499+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:20:54.527+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:20:54.526+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:20:54.564+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:20:54.563+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:20:54.588+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.126 seconds
+[2024-11-25T06:21:24.990+0000] {processor.py:186} INFO - Started process (PID=3826) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:21:24.992+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:21:24.994+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:21:24.994+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:21:25.014+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:21:25.041+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:21:25.040+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:21:25.066+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:21:25.065+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:21:25.094+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.110 seconds
+[2024-11-25T06:21:55.495+0000] {processor.py:186} INFO - Started process (PID=4127) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:21:55.496+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:21:55.501+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:21:55.500+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:21:55.531+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:21:55.570+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:21:55.570+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:21:55.614+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:21:55.614+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:21:55.643+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.154 seconds
+[2024-11-25T06:22:28.945+0000] {processor.py:186} INFO - Started process (PID=4428) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:22:28.949+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:22:28.954+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:22:28.953+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:22:29.005+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:22:29.079+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:22:29.078+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:22:29.164+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:22:29.164+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:22:29.209+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.279 seconds
+[2024-11-25T06:23:00.292+0000] {processor.py:186} INFO - Started process (PID=4692) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:23:00.303+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:23:00.320+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:23:00.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:23:00.434+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:23:00.514+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:23:00.514+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:23:00.618+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:23:00.617+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:23:00.717+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.452 seconds
+[2024-11-25T06:23:30.992+0000] {processor.py:186} INFO - Started process (PID=4993) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:23:30.994+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:23:30.997+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:23:30.996+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:23:31.016+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:23:31.044+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:23:31.044+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:23:31.081+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:23:31.080+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:23:31.107+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.121 seconds
+[2024-11-25T06:24:01.158+0000] {processor.py:186} INFO - Started process (PID=5291) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:24:01.159+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:24:01.160+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:24:01.160+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:24:01.180+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:24:01.202+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:24:01.201+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:24:01.227+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:24:01.227+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:24:01.247+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.094 seconds
+[2024-11-25T06:24:31.978+0000] {processor.py:186} INFO - Started process (PID=5585) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:24:31.980+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:24:31.984+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:24:31.983+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:24:32.004+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:24:32.030+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:24:32.030+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:24:32.054+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:24:32.053+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:24:32.074+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.102 seconds
+[2024-11-25T06:25:03.461+0000] {processor.py:186} INFO - Started process (PID=5813) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:25:03.463+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:25:03.469+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:25:03.469+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:25:03.505+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:25:03.547+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:25:03.547+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:25:03.594+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:25:03.594+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:25:03.638+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.191 seconds
+[2024-11-25T06:25:34.704+0000] {processor.py:186} INFO - Started process (PID=6097) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:25:34.706+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:25:34.709+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:25:34.708+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:25:34.746+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:25:34.780+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:25:34.780+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:25:34.808+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:25:34.808+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:25:34.831+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.142 seconds
+[2024-11-25T06:26:04.921+0000] {processor.py:186} INFO - Started process (PID=6377) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:26:04.922+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:26:04.924+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:26:04.924+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:26:04.941+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:26:04.970+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:26:04.970+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:26:05.042+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:26:05.042+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:26:05.096+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.182 seconds
+[2024-11-25T06:26:35.263+0000] {processor.py:186} INFO - Started process (PID=6679) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:26:35.264+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:26:35.266+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:26:35.266+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:26:35.293+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:26:35.325+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:26:35.325+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:26:35.370+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:26:35.368+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:26:35.397+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.141 seconds
+[2024-11-25T06:27:06.181+0000] {processor.py:186} INFO - Started process (PID=6986) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:27:06.184+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:27:06.190+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:27:06.189+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:27:06.231+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:27:06.281+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:27:06.280+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:27:06.378+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:27:06.378+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:27:06.481+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.308 seconds
+[2024-11-25T06:27:37.346+0000] {processor.py:186} INFO - Started process (PID=7287) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:27:37.347+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:27:37.349+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:27:37.348+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:27:37.367+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:27:37.389+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:27:37.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:27:37.411+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:27:37.411+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:27:37.431+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.093 seconds
+[2024-11-25T06:28:08.162+0000] {processor.py:186} INFO - Started process (PID=7588) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:28:08.162+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:28:08.165+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:28:08.164+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:28:08.182+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:28:08.214+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:28:08.213+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:28:08.242+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:28:08.241+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:28:08.267+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.112 seconds
+[2024-11-25T06:28:38.679+0000] {processor.py:186} INFO - Started process (PID=7889) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:28:38.680+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:28:38.683+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:28:38.683+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:28:38.709+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:28:38.745+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:28:38.745+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:28:38.776+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:28:38.775+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:28:38.799+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.129 seconds
+[2024-11-25T06:29:08.873+0000] {processor.py:186} INFO - Started process (PID=8190) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:29:08.874+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:29:08.877+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:29:08.877+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:29:08.902+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:29:08.926+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:29:08.926+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:29:08.956+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:29:08.955+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:29:08.977+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.112 seconds
+[2024-11-25T06:29:40.248+0000] {processor.py:186} INFO - Started process (PID=8489) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:29:40.249+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:29:40.256+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:29:40.255+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:29:40.291+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:29:40.320+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:29:40.319+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:29:40.346+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:29:40.346+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:29:40.368+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.132 seconds
+[2024-11-25T06:30:10.711+0000] {processor.py:186} INFO - Started process (PID=8755) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:30:10.713+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:30:10.716+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:30:10.715+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:30:10.739+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:30:10.765+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:30:10.765+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:30:10.795+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:30:10.795+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:30:10.837+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.134 seconds
+[2024-11-25T06:30:40.995+0000] {processor.py:186} INFO - Started process (PID=9043) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:30:40.997+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:30:41.000+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:30:41.000+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:30:41.035+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:30:41.085+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:30:41.084+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:30:41.138+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:30:41.138+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:30:41.186+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.203 seconds
+[2024-11-25T06:31:11.464+0000] {processor.py:186} INFO - Started process (PID=9344) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:31:11.466+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:31:11.468+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:31:11.468+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:31:11.486+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:31:11.510+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:31:11.509+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:31:11.533+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:31:11.533+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:31:11.556+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.097 seconds
+[2024-11-25T06:31:41.930+0000] {processor.py:186} INFO - Started process (PID=9645) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:31:41.931+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:31:41.934+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:31:41.934+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:31:41.956+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:31:41.982+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:31:41.981+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:31:42.009+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:31:42.009+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:31:42.028+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.104 seconds
+[2024-11-25T06:32:12.337+0000] {processor.py:186} INFO - Started process (PID=9946) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:32:12.338+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:32:12.341+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:32:12.341+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:32:12.359+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:32:12.381+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:32:12.381+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:32:12.406+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:32:12.406+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:32:12.427+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.095 seconds
+[2024-11-25T06:32:42.552+0000] {processor.py:186} INFO - Started process (PID=10248) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:32:42.553+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:32:42.556+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:32:42.556+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:32:42.583+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:32:42.610+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:32:42.610+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:32:42.640+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:32:42.640+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:32:42.664+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.120 seconds
+[2024-11-25T06:33:13.090+0000] {processor.py:186} INFO - Started process (PID=10544) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:33:13.091+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:33:13.094+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:33:13.093+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:33:13.113+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:33:13.141+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:33:13.140+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:33:13.172+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:33:13.172+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:33:13.195+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.113 seconds
+[2024-11-25T06:33:43.577+0000] {processor.py:186} INFO - Started process (PID=10845) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:33:43.578+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:33:43.582+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:33:43.581+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:33:43.608+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:33:43.637+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:33:43.636+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:33:43.674+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:33:43.674+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:33:43.695+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.127 seconds
+[2024-11-25T06:34:14.734+0000] {processor.py:186} INFO - Started process (PID=11146) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:34:14.735+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:34:14.738+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:34:14.737+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:34:14.756+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:34:14.784+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:34:14.784+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:34:14.825+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:34:14.825+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:34:14.864+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.135 seconds
+[2024-11-25T06:34:44.975+0000] {processor.py:186} INFO - Started process (PID=11447) to work on /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:34:44.976+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/api_to_pgdatabase.py for tasks to queue
+[2024-11-25T06:34:44.981+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:34:44.980+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:34:45.002+0000] {processor.py:925} INFO - DAG(s) 'api_to_postgresql_2' retrieved from /opt/airflow/dags/api_to_pgdatabase.py
+[2024-11-25T06:34:45.023+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:34:45.023+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-25T06:34:45.063+0000] {logging_mixin.py:190} INFO - [2024-11-25T06:34:45.062+0000] {dag.py:4180} INFO - Setting next_dagrun for api_to_postgresql_2 to 2024-11-25 00:00:00+00:00, run_after=2024-11-26 00:00:00+00:00
+[2024-11-25T06:34:45.104+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/api_to_pgdatabase.py took 0.136 seconds
