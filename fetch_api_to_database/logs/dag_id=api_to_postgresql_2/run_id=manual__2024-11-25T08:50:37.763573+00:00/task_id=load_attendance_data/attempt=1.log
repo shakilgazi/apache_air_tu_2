@@ -1,0 +1,27 @@
+[2024-11-25T08:51:25.319+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-25T08:51:25.348+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: api_to_postgresql_2.load_attendance_data manual__2024-11-25T08:50:37.763573+00:00 [queued]>
+[2024-11-25T08:51:25.359+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: api_to_postgresql_2.load_attendance_data manual__2024-11-25T08:50:37.763573+00:00 [queued]>
+[2024-11-25T08:51:25.360+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 3
+[2024-11-25T08:51:25.382+0000] {taskinstance.py:2889} INFO - Executing <Task(_PythonDecoratedOperator): load_attendance_data> on 2024-11-25 08:50:37.763573+00:00
+[2024-11-25T08:51:25.400+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=6061) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-11-25T08:51:25.398+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'api_to_postgresql_2', 'load_attendance_data', 'manual__2024-11-25T08:50:37.763573+00:00', '--job-id', '7', '--raw', '--subdir', 'DAGS_FOLDER/api_to_pgdatabase.py', '--cfg-path', '/tmp/tmprl1w0e7c']
+[2024-11-25T08:51:25.402+0000] {standard_task_runner.py:72} INFO - Started process 6066 to run task
+[2024-11-25T08:51:25.403+0000] {standard_task_runner.py:105} INFO - Job 7: Subtask load_attendance_data
+[2024-11-25T08:51:25.486+0000] {task_command.py:467} INFO - Running <TaskInstance: api_to_postgresql_2.load_attendance_data manual__2024-11-25T08:50:37.763573+00:00 [running]> on host 06d2a9f4732f
+[2024-11-25T08:51:25.628+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='api_to_postgresql_2' AIRFLOW_CTX_TASK_ID='load_attendance_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-25T08:50:37.763573+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-25T08:50:37.763573+00:00'
+[2024-11-25T08:51:25.631+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-11-25T08:51:25.633+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-11-25T08:51:25.634+0000] {logging_mixin.py:190} INFO - Current task name:load_attendance_data state:running start_date:2024-11-25 08:51:25.349270+00:00
+[2024-11-25T08:51:25.634+0000] {logging_mixin.py:190} INFO - Dag name:api_to_postgresql_2 and current dag run status:running
+[2024-11-25T08:51:25.634+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-25T08:51:25.648+0000] {base.py:84} INFO - Retrieving connection 'postgres_default_2'
+[2024-11-25T08:51:25.806+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-25T08:51:25.821+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-25T08:51:25.822+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=api_to_postgresql_2, task_id=load_attendance_data, run_id=manual__2024-11-25T08:50:37.763573+00:00, execution_date=20241125T085037, start_date=20241125T085125, end_date=20241125T085125
+[2024-11-25T08:51:25.838+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-11-25T08:51:25.839+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-11-25T08:51:25.840+0000] {logging_mixin.py:190} INFO - Dag name:api_to_postgresql_2 queued_at:2024-11-25 08:50:37.927595+00:00
+[2024-11-25T08:51:25.840+0000] {logging_mixin.py:190} INFO - Task hostname:06d2a9f4732f operator:_PythonDecoratedOperator
+[2024-11-25T08:51:25.862+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-25T08:51:25.882+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-25T08:51:25.885+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
