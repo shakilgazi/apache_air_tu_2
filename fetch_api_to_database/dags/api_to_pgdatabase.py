@@ -7,9 +7,14 @@ from datetime import datetime, timedelta
 import requests
 import json
 
-# Latitude and longitude for the desired location (London in this case)
-# LATITUDE = '51.5074'
-# LONGITUDE = '-0.1278'
+
+# CONNECTIONS ==>
+#
+# connection_id = 'postgres_default_2', connection_type = 'postgres', host = 'postgres', post = 5432, login = 'airflow', password = 'airflow', Database = 'airflow'.
+#
+# connection_id = 'attendance_api', connection_type = 'http', host = 'lucid.nassa.com.bd' (not required), login = 'airflow', password = 'airflow'.
+
+
 POSTGRES_CONN_ID='postgres_default_2'
 API_CONN_ID='attendance_api'
 
@@ -41,7 +46,6 @@ with DAG(
         http_hook=HttpHook(http_conn_id=API_CONN_ID,method='GET')
 
         ## Build the API endpoint
-        ## https://api.open-meteo.com/v1/forecast?latitude=51.5074&longitude=-0.1278&current_weather=true
         endpoint=f'api/Attendance/GetEmployeeAttendanceTodayv2'
 
         ## Make the request via the HTTP Hook
